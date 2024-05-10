@@ -1,2 +1,0 @@
-- Nếu dùng dữ liệu demo thì copy thư mục "Products Image" vào thư mục "ShopSimple".
-- Mở Microsoft SQL Server Management Studio (SSMS) > kéo thả file vào và run (Execute).
