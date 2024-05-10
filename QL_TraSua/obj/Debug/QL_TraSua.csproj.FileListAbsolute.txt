@@ -1,0 +1,30 @@
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\bin\Debug\Shop Simple.exe.config
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\bin\Debug\Shop Simple.exe
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\bin\Debug\Shop Simple.pdb
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\QL_TraSua.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmAccount__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmCatalog__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmCustomer__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmImport__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmInvoice__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmProduct__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmSupplier__Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.fDashboard.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.frmChangePassword.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.frmFindProduct.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.frmLogin.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.Detail.frmStatus_Detail.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.frmViewImage.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmAccount__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmCatalog__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmCustomer__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmImport__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmInvoice__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmProduct__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmStatus__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\ShopSimple.View.List.frmSupplier__List.resources
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\QL_TraSua.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\QL_TraSua.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\Shop Simple.exe
+C:\Users\trant\OneDrive\Desktop\QL_BanTraSua\QL_TraSua\obj\Debug\Shop Simple.pdb
