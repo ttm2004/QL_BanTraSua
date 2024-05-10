@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|QL_TraSua.csproj|c:\\users\\trant\\onedrive\\desktop\\shopsimple\\shopsimple\\shopsimple\\view\\fdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|QL_TraSua.csproj|solutionrelative:view\\fdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\View\\fDashboard.cs",
+              "RelativeDocumentMoniker": "View\\fDashboard.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\View\\fDashboard.cs [Design]",
+              "RelativeToolTip": "View\\fDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:47:05.132Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|c:\\users\\trant\\onedrive\\desktop\\shopsimple\\shopsimple\\shopsimple\\model\\selectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|solutionrelative:model\\selectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|c:\\users\\trant\\onedrive\\desktop\\shopsimple\\shopsimple\\shopsimple\\model\\imagepathlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|solutionrelative:model\\imagepathlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QL_TraSua||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|c:\\users\\trant\\onedrive\\desktop\\shopsimple\\shopsimple\\shopsimple\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{8C124A68-7B70-40EB-AA1D-82E9E13E8E5F}|ShopSimple.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectList.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\Model\\SelectList.cs",
+              "RelativeDocumentMoniker": "Model\\SelectList.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\Model\\SelectList.cs",
+              "RelativeToolTip": "Model\\SelectList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:29:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagePathList.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\Model\\ImagePathList.cs",
+              "RelativeDocumentMoniker": "Model\\ImagePathList.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\Model\\ImagePathList.cs",
+              "RelativeToolTip": "Model\\ImagePathList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:29:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QL_TraSua",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\QL_TraSua.csproj",
+              "RelativeDocumentMoniker": "QL_TraSua.csproj",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Desktop\\ShopSimple\\ShopSimple\\ShopSimple\\QL_TraSua.csproj",
+              "RelativeToolTip": "QL_TraSua.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T11:43:03.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
